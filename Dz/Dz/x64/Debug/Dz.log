@@ -1,0 +1,3 @@
+﻿  Dinam.cpp
+C:\Users\Котак\source\repos\Main.1\Main. 1\Main. 1\Dz\Dz\Dinam.cpp(111,25): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  Dz.vcxproj -> C:\Users\Котак\source\repos\Main.1\Main. 1\Main. 1\Dz\x64\Debug\Dz.exe
